@@ -297,7 +297,7 @@ nav a {
     display: inline;
     cursor: pointer;
     color: #939393;
-    -webkit-text-stroke: 1px #3d3d7b;
+    -webkit-text-stroke: 1px #aaaad4;
     z-index: 100;
     pointer-events: all;
 }
